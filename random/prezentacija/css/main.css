@@ -2520,4 +2520,17 @@ body {
     top: 12px;
   }
 }
+
+.sl.box-right {
+  position: fixed;
+  text-align: right;
+  left: 0;
+  top: 48px;
+}
+
+@media (max-width: 999px) {
+  .sl.box-right {
+    top: 12px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
