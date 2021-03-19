@@ -1,0 +1,15 @@
+{
+  "name": "prezentacije",
+  "version": "0.0.0",
+  "description": "reveal.js presentations made by Jovica Veljkovic",
+  "main": "index.js",
+  "dependencies": {
+    "reveal.js": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jovica Veljkovic",
+  "license": "UNLICENSED"
+}
